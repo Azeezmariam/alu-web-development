@@ -1,2 +1,2 @@
 ![joshua-hanson-e616t35Vbeg-unsplash](https://github.com/Azeezmariam/alu-web-development/assets/116581240/5ae64f9d-b8d7-4ed7-aa03-741a88f9398f)
-Creating a webpage with html and using fignma for design and adding images
+Creating a webpage with html and using fignma for design and adding images too make it look presentable
